@@ -27,6 +27,4 @@ func main() {
 	// recursive := factorialRecursive(5)
 	recursive := factorialRecursive(10)
 	fmt.Println(recursive)
-
-	// test
 }
